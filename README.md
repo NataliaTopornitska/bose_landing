@@ -2,7 +2,7 @@
 
 [DEMO LINK](https://nataliatopornitska.github.io/bose_landing/)
 
-[Figma design]()
+This project is a landing page designed according to a [Figma design](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&node-type=frame&t=eaWnZOByHR9fxOEz-0)
 
 ### Key Sections:
 
