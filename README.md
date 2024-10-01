@@ -1,6 +1,7 @@
 # Bang&Olufsen Landing Page
 
 [DEMO LINK](https://nataliatopornitska.github.io/bose_landing/)
+
 [Figma design]()
 
 ### Key Sections:
@@ -26,7 +27,7 @@
 
 ### How to Run the Page Locally
 
-1. Clone the repository to your local machine using the command git clone 
+1. Clone the repository to your local machine using the command git clone https://github.com/NataliaTopornitska/bose_landing
 2. Then, navigate to the project directory using cd bose-landing.
 3. Make sure you have Node.js and npm installed, and install the project dependencies by running npm install.
 4. After the dependencies are installed, start the development server with npm start.
