@@ -1,6 +1,7 @@
 # Bang&Olufsen Landing Page
 
 [DEMO LINK](https://nataliatopornitska.github.io/bose_landing/)
+[Figma design]()
 
 ### Key Sections:
 
